@@ -1,0 +1,11 @@
+[10-Mar-2023 09:09:02 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[10-Mar-2023 09:09:02 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[10-Mar-2023 09:09:23 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[10-Mar-2023 09:09:23 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[10-Mar-2023 09:16:43 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[10-Mar-2023 09:16:43 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/curriculum-modal-body.php on line 26
+[21-Apr-2023 16:58:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '34' for key 'uccp_login.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/add-professor.php:17
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/add-professor.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizedean/sidebarpage/add-professor.php on line 17

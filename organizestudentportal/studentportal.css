@@ -1,0 +1,301 @@
+/* ===== Google Font Import - Poppins ===== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.rounded-full {
+  border-radius: 100%;
+}
+
+#wrapper {
+  overflow-x: hidden;
+    background-color: #fbf3ff;
+}
+
+.nav-pills > li > a.active {
+  background-color: #e0dada !important;
+  color: #000000 !important;
+}
+
+.nav-pills > li > a:hover {
+  color: #000000 !important;
+}
+
+.nav-link-color {
+  color: #000000;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  -webkit-transition: margin 0.25s ease-out;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  background-color: #ff7100;
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#page-content-wrapper {
+  min-width: 100vh;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  margin-left: 0;
+}
+
+#menu-toggle {
+  cursor: pointer;
+}
+
+.list-group-item {
+  border: none;
+  padding: 20px 30px;
+}
+
+.list-group-item.active {
+  background-color: transparent;
+  font-weight: bold;
+  border: none;
+}
+
+#studentinfo .container{
+    align-items: center;
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 0 10px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+#studentinfo .container form{
+    position: relative;
+    margin-top: 10px;
+    min-height: 500px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+#enroll .container{
+    align-items: center;
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 0 10px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.container header{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+#enroll .container form{
+    position: relative;
+    margin-top: 10px;
+    min-height: 850px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.container form .form{
+    position: absolute;
+    background-color: #fff;
+    transition: 0.3s ease;
+}
+
+.container form .title{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 6px 0;
+    color: #333;
+}
+
+.container form .title{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 6px 0;
+    color: #333;
+}
+
+.container form .fields{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.input-field label{
+    font-size: 12px;
+    font-weight: 500;
+    color: #2e2e2e;
+}
+
+form .fields .input-field-1{
+    display: flex;
+    width: calc(100% / 3 - 15px);
+    flex-direction: column;
+    margin: 4px 0;
+}
+
+.input-field-1 input, select{
+    outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 0 15px;
+    height: 42px;
+    margin: 8px 0;
+}
+
+form .fields .input-field-2{
+    display: flex;
+    width: calc(100% / 2 - 15px);
+    flex-direction: column;
+    margin: 4px 0;
+}
+
+.input-field-2 input, select{
+    outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 0 15px;
+    height: 42px;
+    margin: 8px 0;
+}
+
+form .fields .input-field-3{
+    display: flex;
+    width: calc(100% - 15px);
+    flex-direction: column;
+    margin: 4px 0;
+}
+
+.input-field-3 input, select{
+    outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 0 15px;
+    height: 42px;
+    margin: 8px 0;
+}
+
+.input-field input :focus,
+.input-field select:focus{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.13);
+}
+
+.input-field select,
+.input-field input[type="date"]{
+    color: #707070;
+}
+
+.input-field input[type="date"]:valid{
+    color: #333;
+}
+
+.container form button, .backBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    max-width: 200px;
+    width: 100%;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 5px;
+    margin: 20px 0;
+    background-color: #ff7100;  /*#4070f4*/
+    transition: all 0.3s linear;
+    cursor: pointer;
+}
+
+.container form .btnText{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+form button:hover{
+    background-color: #e06604;  /*#265df2*/
+}
+
+form button i,
+form .backBtn i{
+    margin: 0 6px;
+}
+
+form .backBtn i{
+    transform: rotate(180deg);
+}
+
+form .buttons{
+    display: flex;
+    align-items: center;
+}
+
+form .buttons button , .backBtn{
+    margin-right: 14px;
+}
+
+@media (min-width: 700px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -17.5rem;
+  }
+
+  .container form{
+      overflow-y: scroll;
+  }
+
+  form .fields .input-field{
+      width: 100%;
+  }
+
+  .container form::-webkit-scrollbar{
+     display: none;
+  }
+  form .fields .input-field{
+      width: calc(100% / 2 - 15px);
+  }
+}

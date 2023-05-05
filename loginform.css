@@ -1,0 +1,144 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+.body{
+  background: #fbf3ff;
+}
+
+.container{
+
+
+width: auto;
+height: auto;
+margin: auto;
+padding: 50px;
+
+
+}
+
+.myRightCtn{
+  position: relative;
+  background: #e05a00;
+  border-radius: 25px;
+  height: 100%;
+  padding: 20px;
+  color: white;
+  font-size: 12px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.myleftCtn{
+  position: relative;
+  background: white;
+  border-radius: 25px;
+  height: 100%;
+  padding: 25px;
+  padding-left: 50px;
+}
+
+.myleftCtn header {
+  color: black;
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.myleftCtn h2 {
+  color: black;
+  font-size: 30px;
+  font-weight: 500;
+}
+.line {
+position: relative;
+align-items: center;
+justify-content: center;
+margin-bottom: 50px;
+  background-color: #e05a00;
+  height: 5px;
+  width: 75%;
+
+}
+.myRightCtn h4{
+  font-weight: 700;
+}
+.logo{
+margin-bottom: 40px;
+
+}
+.myRightCtn h7{
+
+  font-weight: 700;
+}
+
+.row{
+  height: 50%;
+}
+
+.myCard{
+  position: relative;
+  background: white;
+  height: 100%;
+  border-radius: 25px;
+-webkit-box-shadow: 0 0px 5px 5px rgba(0, 0, 0, .05);
+-moz-box-shadow: 0 0px 5px 5px rgba(0, 0, 0, .07);
+  box-shadow: 0 0px 5px 5px rgba(0, 0, 0, .07);
+}
+.box{
+  position: relative;
+  margin: 20px;
+  margin-bottom: 100px;
+}
+
+.myleftCtn .myInput{
+  width: 70%;
+  margin: 5px;
+margin-right: 28px;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 40px;
+  border: none;
+  -webkit-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 10px 49px -14px rgba(0, 0, 0, 0.7);
+
+}
+
+
+.myleftCtn .fas {
+  position: relative;
+  left: 36px;
+}
+.myleftCtn .myInput:focus{
+  outline: none;
+}
+.myForm{
+  position: relative;
+
+}
+.btn1{
+text-align: center;
+margin-right: 28px;
+width: 50%;
+height: 40px;
+border-radius: 50px;
+border: none;
+color: white;
+font-weight: 500;
+background-color: #e05a00;
+opacity: 1;
+
+}
+
+.btn1:hover{
+  opacity:0.6;
+}
+
+.btn-back{
+  background-color: orange;
+}

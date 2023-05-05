@@ -1,0 +1,1258 @@
+
+body{
+background: f1fbff;
+overflow-x: hidden;
+}
+
+.section-padding{
+  padding: 100px 0;
+}
+
+.carousel-item{
+  height: 90vh;
+  min-height: 300px;
+}
+
+.carousel-caption{
+  bottom: 250px;
+  z-index: 2;
+}
+
+.carousel-caption h5{
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 25px;
+}
+
+.carousel-caption p{
+  width: 60%;
+  margin: auto;
+  line-height: 1.9;
+  font-size: 20px;
+}
+
+.carousel-inner::before{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.active {
+  background-color: #717171;
+}
+
+.section-header h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 148.2%;
+  text-align: center;
+  letter-spacing: 0.23em;
+  text-transform: uppercase;
+}
+
+.section-header h1{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 113.2%;
+  text-align: center;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.section-header h1 .NewsText{
+  color: #fd7e14;
+}
+
+.w-100{
+  height: 100vh;
+}
+
+.card {
+  width: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.card-title{
+  padding: 20px;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 96.7%;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: black;
+}
+
+#news .btn {
+  width: 150px;
+  height: 35px;
+  background: #FF8303;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin: auto;
+}
+
+.more-news .btn{
+  width: 200px;
+  height: 65px;
+  margin-top: 50px;
+}
+
+.images-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.morecard{
+  width: calc(50% - 5px);
+  margin-bottom: 10px;
+  display: none;
+}
+
+.morecard img{
+  width: 100%;
+  /* height: 100% */
+}
+
+.section-header-admission h1{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 86px;
+  line-height: 93.2%;
+  text-align: center;
+  letter-spacing: 0.405em;
+  text-transform: uppercase;
+}
+
+.section-header-admission h1 .AdmissionText{
+    color: #fd7e14;
+}
+
+.Admission-context img{
+    margin-top: 20px;
+    margin: auto;
+    height: 120px;
+    width: 120px;
+}
+
+.Admission-img  img{
+  height: 80vh;
+  width: 100%;
+}
+
+.Admission-context p{
+  /* margin-top: 10px; */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 205.7%;
+  text-align: center;
+  letter-spacing: 0.235em;
+  text-transform: uppercase;
+
+}
+
+.btn-register{
+  width: 150px;
+  height: 50px;
+  background: #FF8303;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 40px;
+}
+
+.section-header-enrollment h1{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 88px;
+  line-height: 93.2%;
+  text-align: center;
+  letter-spacing: 0.405em;
+  text-transform: uppercase;
+}
+
+.section-header-enrollment h1 .EnrollmentText{
+    color: #fd7e14;
+}
+
+.Enrollment-context img{
+    margin-top: 80px;
+    margin: auto;
+    height: 120px;
+    width: 120px;
+}
+
+.Enrollment-img  img{
+  height: 80vh;
+  width: 100%;
+}
+
+.Enrollment-context p{
+  /*margin-top: 40px;*/
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 200.7%;
+  text-align: center;
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+}
+
+.btn-enroll{
+  width: 150px;
+  height: 50px;
+  background: #FF8303;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 40px;
+}
+
+.About-title{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 113.2%;
+text-align: center;
+letter-spacing: 0.29em;
+text-transform: uppercase;
+}
+
+.section-header-about h1 .AboutText{
+  color: #fd7e14;
+}
+
+.Boardofregent{
+  margin-top: 50px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 113.2%;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+
+.Academics{
+margin-top: 50px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 45px;
+line-height: 113.2%;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+
+.img-board{
+  width: 100%;
+  height: 550px;
+}
+
+.img-acads{
+  width: 100%;
+  height:550px;
+}
+
+.btn-acads{
+  width: 150px;
+  height: 50px;
+  background: #FF8303;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-bottom: 30px;
+}
+
+.btn-board{
+  width: 150px;
+  height: 50px;
+  background: #FF8303;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-bottom: 30px;
+}
+
+.section-header-history h1 .HistoryText{
+  color: #fd7e14;
+}
+
+.history-title{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 75px;
+line-height: 130.2%;
+text-align: center;
+letter-spacing: 0.115em;
+text-transform: uppercase;
+}
+
+.history-title2{
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 130.2%;
+  letter-spacing: 0.115em;
+  text-transform: uppercase;
+}
+
+.details{
+  margin-top: 50px;
+text-indent: 250px;
+text-align: left;
+font-family: 'Century Gothic', 'sans-serif';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.20em;
+text-transform: uppercase;
+}
+
+.main-footer{
+  height: auto;
+  width: 100vw;
+  background:#FF8303;
+}
+
+.detail{
+  list-style: none;
+}
+
+
+/*responsive css*/
+/*@media only screen and (min-width: 768px) and (max-width: 991px){*/
+/*  .navbar-nav li{*/
+/*  text-align: center;*/
+/*  }*/
+
+/*  .navbar-toggler-icon{*/
+/*   height: 30px;*/
+/*   width: 30px;*/
+/*  }*/
+
+/*  .navbar-brand img{*/
+/*   height: 55px;*/
+/*    width: 55px;*/
+/*  }*/
+
+/*  .morecard img{*/
+/*    width: 100%;*/
+/* }*/
+
+/*    .carousel-item{*/
+/*    height: 70vh;*/
+/*    min-height: 200px;*/
+/*    }*/
+/*}*/
+
+/*  @media only screen and (max-width: 768px){*/
+/*      .navbar-nav li{*/
+/*  text-align: center;*/
+/*  }*/
+
+/*  .morecard img{*/
+/*    width: 100%;*/
+/*  }*/
+
+/*    .carousel-item{*/
+/*     height: 50vh;*/
+/*     min-height: 100px;*/
+/*    }*/
+/*}*/
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+
+   .navbar-nav li{
+  text-align: center;
+  }
+
+  .navbar-toggler-icon{
+    height: 30px;
+    width: 30px;
+  }
+
+  .navbar-brand img{
+    height: 55px;
+    width: 55px;
+  }
+
+  .morecard img{
+    width: 100%;
+
+  }
+    .carousel-item{
+    height: 15vh;
+    min-height: 200px;
+    }
+ }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+   .navbar-nav li{
+  text-align: center;
+  }
+
+  .navbar-toggler-icon{
+    height: 30px;
+    width: 30px;
+  }
+
+  .navbar-brand img{
+    height: 55px;
+    width: 55px;
+  }
+
+  .morecard img{
+    width: 100%;
+
+  }
+    .carousel-item{
+    height: 50vh;
+    min-height: 200px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+      .navbar-nav li{
+      text-align: center;
+      }
+    
+      .navbar-toggler-icon{
+        height: 30px;
+        width: 30px;
+      }
+    
+      .navbar-brand img{
+        height: 55px;
+        width: 55px;
+      }
+      
+        .carousel-item{
+        height: 80vh;
+        min-height: 200px;
+        }
+        
+        .section-header h2{
+          font-family: 'Montserrat';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 45px;
+          line-height: 148.2%;
+          text-align: center;
+          letter-spacing: 0.23em;
+          text-transform: uppercase;
+        }
+        
+        .section-header h1{
+          font-family: 'Open Sans';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 75px;
+          line-height: 113.2%;
+          text-align: center;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+        }
+
+    .section-header h1 .NewsText{
+      color: #fd7e14;
+    }
+    
+      .card {
+        width: 320px;
+        margin: 0 auto;
+        overflow: hidden;
+      }
+    
+      .card-title{
+        padding: 20px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 11.86px;
+        color: black;
+      }
+    
+      .morecard img{
+        width: 100%;
+      }
+
+    .section-header-admission h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 75px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-admission h1 .AdmissionText{
+        color: #fd7e14;
+    }
+
+    .Admission-context img{
+        margin: auto;
+        height: 100px;
+        width: 100px;
+    }
+
+    .Admission-img  img{
+      height: 113vh;
+      width: 100%;
+    }
+
+    .Admission-context p{
+      /* margin-top: 10px; */
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 21px;
+      line-height: 190%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+
+    .btn-register{
+      width: 130px;
+      height: 50px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 40px;
+    }
+    
+    .section-header-enrollment h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 75px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-enrollment h1 .EnrollmentText{
+        color: #fd7e14;
+    }
+    
+    .Enrollment-context img{
+        margin: auto;
+        height: 100px;
+        width: 100px;
+    }
+    
+    .Enrollment-img  img{
+      height: 113vh;
+      width: 100%;
+    }
+    
+    .Enrollment-context p{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 19.5px;
+      line-height: 180%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+    
+    .btn-enroll{
+      width: 150px;
+      height: 50px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 40px;
+    }
+    
+    .About-title{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 75px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.29em;
+    text-transform: uppercase;
+    }
+    
+    .section-header-about h1 .AboutText{
+      color: #fd7e14;
+    }
+    
+    .Boardofregent{
+      margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .Academics{
+    margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .img-board{
+      width: 100%;
+      height: 525px;
+    }
+    
+    .img-acads{
+      width: 100%;
+      height:525px;
+    }
+    
+    .btn-acads{
+      width: 150px;
+      height: 50px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .btn-board{
+      width: 150px;
+      height: 50px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .section-header-history h1 .HistoryText{
+      color: #fd7e14;
+    }
+
+    .history-title{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 75px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+    
+    .history-title2{
+      margin-top: 50px;
+      text-align: center;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 45px;
+      line-height: 130.2%;
+      letter-spacing: 0.115em;
+      text-transform: uppercase;
+    }
+    
+    .details{
+        margin-top: 50px;
+        text-indent: 250px;
+        text-align: left;
+        font-family: 'Century Gothic', 'sans-serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.20em;
+        text-transform: uppercase;
+    }
+    
+    .main-footer{
+      height: 47vh;
+      width: 100%;
+      background:#FF8303;
+    }
+}
+
+
+/*Extra large devices (large laptops and desktops, 1200px and up)*/
+ @media only screen and (min-width: 1200px) {
+       .navbar-nav li{
+      text-align: center;
+      }
+    
+      .navbar-toggler-icon{
+        height: 40px;
+        width: 40px;
+      }
+    
+      .navbar-brand img{
+        height: 60px;
+        width: 60px;
+      }
+      
+        .carousel-item{
+        height: 90vh;
+        min-height: 200px;
+        }
+    
+      .card {
+        width: 450px;
+        margin: 0 auto;
+        overflow: hidden;
+      }
+    
+      .card-title{
+        padding: 20px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        color: black;
+      }
+
+        .section-header h2{
+          font-family: 'Montserrat';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 50px;
+          line-height: 148.2%;
+          text-align: center;
+          letter-spacing: 0.23em;
+          text-transform: uppercase;
+        }
+        
+        .section-header h1{
+          font-family: 'Open Sans';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 80px;
+          line-height: 113.2%;
+          text-align: center;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+        }
+
+          .morecard img{
+            width: 100%;
+          }
+
+    .section-header-admission h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-admission h1 .AdmissionText{
+        color: #fd7e14;
+    }
+
+    .Admission-context img{
+        margin: auto;
+        height: 130px;
+        width: 130px;
+    }
+
+    .Admission-img  img{
+      height: 105vh;
+      width: 100%;
+    }
+
+    .Admission-context p{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 25px;
+      line-height: 180%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+
+    .btn-register{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 35px;
+    }
+    
+    .section-header-enrollment h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-enrollment h1 .EnrollmentText{
+        color: #fd7e14;
+    }
+    
+    .Enrollment-context img{
+        margin: auto;
+        height: 130px;
+        width: 130px;
+    }
+    
+    .Enrollment-img img{
+      height: 105vh;
+      width: 100%;
+    }
+    
+    .Enrollment-context p{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 25px;
+      line-height: 180%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+    
+    .btn-enroll{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 35px;
+    }
+    
+    .About-title{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.29em;
+    text-transform: uppercase;
+    }
+    
+    .section-header-about h1 .AboutText{
+      color: #fd7e14;
+    }
+    
+    .Boardofregent{
+      margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .Academics{
+    margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .img-board{
+      width: 100%;
+      height: 525px;
+    }
+    
+    .img-acads{
+      width: 100%;
+      height:525px;
+    }
+    
+    .btn-acads{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .btn-board{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .section-header-history h1 .HistoryText{
+      color: #fd7e14;
+    }
+
+    .history-title{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+    
+    .history-title2{
+      margin-top: 50px;
+      text-align: center;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 55px;
+      line-height: 130.2%;
+      letter-spacing: 0.115em;
+      text-transform: uppercase;
+    }
+    
+    .details{
+        margin-top: 50px;
+        text-indent: 250px;
+        text-align: left;
+        font-family: 'Century Gothic', 'sans-serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.20em;
+        text-transform: uppercase;
+    }
+    
+    .main-footer{
+      height: 43vh;
+      width: 100%;
+      background:#FF8303;
+    }
+    
+    .cardib:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+    }
+    
+    .cardib {
+      margin-bottom: 50px;
+    }
+}
+
+/*Extra large devices (large laptops and desktops, 1200px and up)*/
+ @media only screen and (min-width: 1900px) {
+       .navbar-nav li{
+      text-align: center;
+      }
+    
+      .navbar-toggler-icon{
+        height: 40px;
+        width: 40px;
+      }
+    
+      .navbar-brand img{
+        height: 60px;
+        width: 60px;
+      }
+      
+        .carousel-item{
+        height: 95vh;
+        min-height: 200px;
+        }
+    
+      .card {
+        width: 550px;
+        margin: 0 auto;
+        overflow: hidden;
+      }
+    
+      .card-title{
+        padding: 20px;
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        color: black;
+      }
+
+        .section-header h2{
+          font-family: 'Montserrat';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 50px;
+          line-height: 148.2%;
+          text-align: center;
+          letter-spacing: 0.23em;
+          text-transform: uppercase;
+        }
+        
+        .section-header h1{
+          font-family: 'Open Sans';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 80px;
+          line-height: 113.2%;
+          text-align: center;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+        }
+
+          .morecard img{
+            width: 100%;
+          }
+
+    .section-header-admission h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-admission h1 .AdmissionText{
+        color: #fd7e14;
+    }
+
+    .Admission-context img{
+        margin: auto;
+        height: 130px;
+        width: 130px;
+    }
+
+    .Admission-img  img{
+      height: 105vh;
+      width: 100%;
+    }
+
+    .Admission-context p{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 25px;
+      line-height: 180%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+
+    .btn-register{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 35px;
+    }
+    
+    .section-header-enrollment h1{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+
+    .section-header-enrollment h1 .EnrollmentText{
+        color: #fd7e14;
+    }
+    
+    .Enrollment-context img{
+        margin: auto;
+        height: 130px;
+        width: 130px;
+    }
+    
+    .Enrollment-img img{
+      height: 105vh;
+      width: 100%;
+    }
+    
+    .Enrollment-context p{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 550;
+      font-size: 25px;
+      line-height: 180%;
+      text-align: center;
+      letter-spacing: 0.200em;
+      text-transform: uppercase;
+    }
+    
+    .btn-enroll{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      border-radius: 35px;
+    }
+    
+    .About-title{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.29em;
+    text-transform: uppercase;
+    }
+    
+    .section-header-about h1 .AboutText{
+      color: #fd7e14;
+    }
+    
+    .Boardofregent{
+      margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .Academics{
+    margin-top: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    }
+    
+    .img-board{
+      width: 100%;
+      height: 525px;
+    }
+    
+    .img-acads{
+      width: 100%;
+      height:525px;
+    }
+    
+    .btn-acads{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .btn-board{
+      width: 160px;
+      height: 60px;
+      background: #FF8303;
+      border: 1px solid rgba(0, 0, 0, 0.5);
+      margin-bottom: 30px;
+    }
+    
+    .section-header-history h1 .HistoryText{
+      color: #fd7e14;
+    }
+
+    .history-title{
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 80px;
+      line-height: 93.2%;
+      text-align: center;
+      letter-spacing: 0.405em;
+      text-transform: uppercase;
+    }
+    
+    .history-title2{
+      margin-top: 50px;
+      text-align: center;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 55px;
+      line-height: 130.2%;
+      letter-spacing: 0.115em;
+      text-transform: uppercase;
+    }
+    
+    .details{
+        margin-top: 50px;
+        text-indent: 250px;
+        text-align: left;
+        font-family: 'Century Gothic', 'sans-serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.20em;
+        text-transform: uppercase;
+    }
+    
+    .main-footer{
+      height: 43vh;
+      width: 100%;
+      background:#FF8303;
+    }
+    
+    .cardib:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+    }
+    
+    .cardib {
+      margin-bottom: 50px;
+    }
+}
+
+

@@ -1,0 +1,1287 @@
+[02-Feb-2023 14:43:16 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:16 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:16 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:18 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:18 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:18 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:21 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:21 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:21 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[02-Feb-2023 14:43:23 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[02-Feb-2023 14:43:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:4
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(4): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 4
+[03-Feb-2023 06:46:13 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[03-Feb-2023 16:05:31 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:05:31 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:05:31 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:05:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:6
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(6): mysqli_real_escape_string(NULL, '2')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:06:27 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:06:27 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:06:27 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:06:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:6
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(6): mysqli_real_escape_string(NULL, '6')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:06:38 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:06:38 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:06:38 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:06:38 UTC] PHP Warning:  Undefined array key "batchno" in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:06:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:6
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(6): mysqli_real_escape_string(NULL, NULL)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 6
+[03-Feb-2023 16:16:10 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:16:10 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:16:10 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:16:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(8): mysqli_real_escape_string(NULL, '213123')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:18:01 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:18:01 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:18:01 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:18:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(8): mysqli_real_escape_string(NULL, '123123')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:19:31 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:19:31 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:19:31 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:19:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(8): mysqli_real_escape_string(NULL, '213')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:21:15 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:21:15 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:21:15 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:21:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(8): mysqli_real_escape_string(NULL, '1231')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:24:06 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:24:06 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:24:06 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:24:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(8): mysqli_real_escape_string(NULL, '123123')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 8
+[03-Feb-2023 16:25:47 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:25:47 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:25:47 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:25:47 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:25:47 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:25:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:19
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(19): mysqli_query(NULL, 'INSERT INTO ucc...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:28:30 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:28:30 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:28:30 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:28:30 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:28:30 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:28:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:19
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(19): mysqli_query(NULL, 'INSERT INTO ucc...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:28:48 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:28:48 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:33:38 UTC] PHP Warning:  include((include/config.php)): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:33:38 UTC] PHP Warning:  include(): Failed opening '(include/config.php)' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 2
+[03-Feb-2023 16:33:38 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:33:38 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 17
+[03-Feb-2023 16:33:38 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:33:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:19
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(19): mysqli_query(NULL, 'INSERT INTO ucc...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 19
+[03-Feb-2023 16:42:49 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 13
+[03-Feb-2023 16:42:49 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 13
+[03-Feb-2023 16:42:49 UTC] PHP Warning:  Undefined variable $sched1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 13
+[03-Feb-2023 16:42:49 UTC] PHP Warning:  Undefined variable $query1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 15
+[03-Feb-2023 16:42:49 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php:15
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php(15): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/batchquery.php on line 15
+[03-Feb-2023 16:44:29 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:44:29 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:44:29 UTC] PHP Warning:  Undefined variable $sched1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:44:29 UTC] PHP Warning:  Undefined variable $query1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 15
+[03-Feb-2023 16:44:29 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php:15
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php(15): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 15
+[03-Feb-2023 16:44:58 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:44:58 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:44:58 UTC] PHP Warning:  Undefined variable $sched1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:47:55 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:47:55 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:47:55 UTC] PHP Warning:  Undefined variable $sched1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:48:18 UTC] PHP Warning:  Undefined variable $batch in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:48:18 UTC] PHP Warning:  Undefined variable $gwa in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[03-Feb-2023 16:48:18 UTC] PHP Warning:  Undefined variable $sched1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/x.php on line 13
+[10-Mar-2023 07:07:39 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:07:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/include/body.php(26): include('/home/ytoovumw/...')
+#2 /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar.php(8): include('/home/ytoovumw/...')
+#3 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:07:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:08:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:08:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:09:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:10:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:10:08 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:10:12 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:10:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php:75
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php(75): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/REGISTRAR-LIST-EXAMINEE.php on line 75
+[10-Mar-2023 07:11:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-exam.php:12
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/table-exam.php(12): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-exam.php on line 12
+[10-Mar-2023 07:11:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-examinees-assigned.php:12
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/table-examinees-assigned.php(12): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-examinees-assigned.php on line 12
+[10-Mar-2023 07:15:34 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:15:36 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:15:39 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:37:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:37:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:38:18 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:38:32 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 07:38:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 07:40:13 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:40:13 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:40:13 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:40:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:40:27 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:40:27 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:40:27 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:40:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:40:30 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:40:33 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:40:38 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:40:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:41:00 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:41:46 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:43:37 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 4
+[10-Mar-2023 07:43:37 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 4
+[10-Mar-2023 07:43:37 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 15
+[10-Mar-2023 07:43:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php:15
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(15): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 15
+[10-Mar-2023 07:43:46 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 4
+[10-Mar-2023 07:43:46 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 4
+[10-Mar-2023 07:43:46 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 15
+[10-Mar-2023 07:43:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php:15
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(15): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 15
+[10-Mar-2023 07:44:05 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:05 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:05 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:06 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:06 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:06 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:07 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:07 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:07 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:09 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:10 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:11 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:12 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:13 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:14 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:15 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:17 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:18 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:22 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:22 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:22 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:22 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:23 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:23 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:23 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:23 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 2
+[10-Mar-2023 07:44:23 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php:8
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php(8): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/View-Requirements.php on line 8
+[10-Mar-2023 07:44:51 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:48:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:49:02 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:49:16 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:49:19 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:49:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:49:43 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:49:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:49:46 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:49:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:35 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:50:36 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:50:38 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:43 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:50:56 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:50:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[10-Mar-2023 07:51:03 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:51:05 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:51:37 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:51:37 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 07:51:37 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:51:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 07:57:16 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:57:29 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:57:30 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:57:43 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:57:50 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php on line 3
+[10-Mar-2023 07:57:50 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php on line 3
+[10-Mar-2023 07:57:50 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php on line 10
+[10-Mar-2023 07:57:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php:10
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php(10): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-admission.php on line 10
+[10-Mar-2023 07:57:53 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:58:15 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:58:17 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:58:36 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:58:37 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:58:42 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:58:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 07:58:51 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 07:59:54 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:00:32 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:00:38 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:00:40 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:01:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:01:59 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:02:02 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:02:04 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:04:57 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:06:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:06:11 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:06:54 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:13:50 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php on line 13
+[10-Mar-2023 08:13:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php on line 13
+[10-Mar-2023 08:13:58 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:13:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:00 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:01 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:02 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:02 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:03 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:04 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:04 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:14:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-examinee-email.php on line 12
+[10-Mar-2023 08:15:52 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php on line 13
+[10-Mar-2023 08:15:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email-Examinee.php on line 13
+[10-Mar-2023 08:16:40 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:16:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:16:46 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 08:16:46 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 7
+[10-Mar-2023 08:16:46 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:16:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:17:31 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:17:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:17:59 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:17:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:18:45 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:18:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:20:32 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:20:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:21:00 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:21:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:21:17 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:21:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Send-Bulk-Email.php on line 14
+[10-Mar-2023 08:21:22 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:21:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrarincludes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:21:52 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:21:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 12
+[10-Mar-2023 08:27:03 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:34:51 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:36:24 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 08:53:55 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:53:55 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:53:55 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:53:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php:11
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php(11): mysqli_query(NULL, 'UPDATE `uccp_cu...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:53:58 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:53:58 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:53:58 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:53:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php:11
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php(11): mysqli_query(NULL, 'UPDATE `uccp_cu...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:54:01 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:54:01 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:54:01 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:54:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php:11
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php(11): mysqli_query(NULL, 'UPDATE `uccp_cu...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:54:22 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:54:22 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 4
+[10-Mar-2023 08:54:22 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 08:54:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php:11
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php(11): mysqli_query(NULL, 'UPDATE `uccp_cu...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/accept-curriculum.php on line 11
+[10-Mar-2023 09:10:30 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:31 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:31 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php(9): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:34 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:34 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:34 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php(9): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:36 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:36 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:36 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php(9): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:37 UTC] PHP Warning:  include(../include/config.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:37 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 3
+[10-Mar-2023 09:10:37 UTC] PHP Warning:  Undefined variable $conn in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:10:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php:9
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php(9): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/update-course.php on line 9
+[10-Mar-2023 09:16:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:22:57 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:23:04 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:01 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:05 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:08 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:28 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:24:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:33 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:26:40 UTC] PHP Warning:  Undefined array key "abbreviation" in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-course.php on line 16
+[10-Mar-2023 09:34:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 09:48:05 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 09:48:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:48:47 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:48:51 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:48:52 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:48:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 13:49:02 UTC] PHP Warning:  Undefined variable $_POST in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:06 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 13:49:07 UTC] PHP Warning:  Undefined variable $_POST in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[10-Mar-2023 13:49:46 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:49:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:50:01 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:50:30 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:50:31 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:52:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[10-Mar-2023 13:52:23 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[12-Mar-2023 03:30:57 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[12-Mar-2023 03:31:00 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:55:32 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:56:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:56:50 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:56:51 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:56:57 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 00:57:02 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 01:30:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 01:30:45 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[15-Mar-2023 01:30:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 03:44:50 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 03:44:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 03:48:34 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 03:55:40 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 09:14:24 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 09:14:28 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 12:01:05 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 13:08:36 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 13:16:07 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:27:34 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:27:35 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:29:31 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:29:32 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:30:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:33:39 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:34:00 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 14:34:23 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 15:14:24 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[17-Mar-2023 15:14:43 UTC] PHP Warning:  Undefined array key "values" in /home/ytoovumw/public_html/UCCP/organizeregistrar/examineeBatchUpdate.php on line 22
+[17-Mar-2023 15:14:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ytoovumw/public_html/UCCP/organizeregistrar/examineeBatchUpdate.php on line 22
+[17-Mar-2023 15:14:43 UTC] PHP Warning:  Undefined variable $sql1 in /home/ytoovumw/public_html/UCCP/organizeregistrar/examineeBatchUpdate.php on line 41
+[18-Mar-2023 05:19:48 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:20:06 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:21:17 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:21:25 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:21:26 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:21:27 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:31:45 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 05:39:19 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[18-Mar-2023 08:41:37 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Mar-2023 05:50:26 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 06:55:06 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 06:55:11 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 06:57:04 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 06:57:17 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 07:03:21 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 07:03:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 07:03:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[27-Mar-2023 07:10:37 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 04:21:46 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 04:21:47 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 05:11:31 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 05:11:32 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 05:26:35 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 16:30:14 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 16:34:47 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[28-Mar-2023 16:35:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:09:11 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:29:29 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-exam.php on line 14
+[29-Mar-2023 16:29:36 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/ytoovumw/public_html/UCCP/organizeregistrar/table-exam.php on line 14
+[29-Mar-2023 16:51:54 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:54:07 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:54:28 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:54:49 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:54:49 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:56:13 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:59:45 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 16:59:47 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[29-Mar-2023 17:00:05 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[30-Mar-2023 14:03:52 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 01:51:49 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 01:52:16 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 01:52:31 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 01:52:55 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:01:19 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:01:41 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:37:36 UTC] PHP Notice:  Undefined index: choices in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:37:58 UTC] PHP Notice:  Undefined index: choices in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:38:04 UTC] PHP Notice:  Undefined index: choices in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[11-Apr-2023 02:38:14 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 77
+[11-Apr-2023 02:38:14 UTC] PHP Warning:  imap_append() expects parameter 1 to be resource, boolean given in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 78
+[11-Apr-2023 02:38:14 UTC] PHP Warning:  imap_close() expects parameter 1 to be resource, boolean given in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 79
+[20-Apr-2023 17:45:21 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 17:45:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 17:45:26 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 17:45:37 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 17:45:41 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 18:20:12 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 18:20:30 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 18:20:32 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[20-Apr-2023 18:20:38 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[20-Apr-2023 18:20:39 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 03:45:57 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 03:45:58 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 03:46:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 03:46:18 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:02:57 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:03:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:23:01 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 04:24:18 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:24:19 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:43:37 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 04:43:38 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 06:42:08 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 06:42:10 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 07:24:03 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 07:24:05 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 07:24:22 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 07:24:25 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 07:24:30 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 07:24:34 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 07:28:01 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 07:28:02 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 07:28:50 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 07:32:13 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 87
+[21-Apr-2023 07:32:13 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php:88
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(88): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(60): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 88
+[21-Apr-2023 07:32:21 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 87
+[21-Apr-2023 07:32:21 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php:88
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(88): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(60): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 88
+[21-Apr-2023 07:32:32 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 87
+[21-Apr-2023 07:32:32 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php:88
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(88): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php(60): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-registrar.php on line 88
+[21-Apr-2023 07:43:02 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 07:43:03 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 08:03:16 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 08:03:44 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 08:04:59 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 08:05:29 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/ADMISSION-SCHEDULING.php on line 59
+[21-Apr-2023 08:11:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '502' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:11:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '502' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:12:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '502' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:13:16 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 151
+[21-Apr-2023 08:13:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '502' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:16:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:16:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:17:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:18:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:19:36 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php on line 96
+[21-Apr-2023 08:19:36 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php:97
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php(97): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php(63): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php on line 97
+[21-Apr-2023 08:20:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:24:55 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 08:25:26 UTC] PHP Warning:  Undefined array key "choices1" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy.php on line 10
+[21-Apr-2023 08:25:31 UTC] PHP Warning:  Undefined array key "choices1" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy.php on line 10
+[21-Apr-2023 08:25:38 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 08:25:50 UTC] PHP Warning:  Undefined array key "choices1" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy.php on line 10
+[21-Apr-2023 08:25:57 UTC] PHP Warning:  Undefined array key "choices1" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy.php on line 10
+[21-Apr-2023 08:30:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:30:40 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 08:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:34:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:35:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 08:38:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 12:28:17 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 13:20:12 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 13:20:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2' for key 'uccp_enrollment_billing.PRIMARY' in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php:25
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Accept-enrollee.php on line 25
+[21-Apr-2023 13:24:17 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php on line 96
+[21-Apr-2023 13:24:17 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php:97
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php(97): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php(63): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/remove-enrollee.php on line 97
+[21-Apr-2023 14:14:02 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 14:14:45 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 14:14:54 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[21-Apr-2023 14:22:42 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 77
+[21-Apr-2023 14:22:42 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:78
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php(78): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php(57): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 78
+[21-Apr-2023 14:23:10 UTC] PHP Warning:  imap_open(): Couldn't open stream {mail.ucc-csd-bscs.com:993/imap/ssl}INBOX.Sent in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 77
+[21-Apr-2023 14:23:10 UTC] PHP Fatal error:  Uncaught TypeError: imap_append(): Argument #1 ($imap) must be of type IMAP\Connection, bool given in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php:78
+Stack trace:
+#0 /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php(78): imap_append()
+#1 /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php(57): save_mail()
+#2 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/registrar-single-email-passer.php on line 78
+[21-Apr-2023 16:04:16 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 16:05:54 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:05:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:07:12 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:07:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:07:19 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:07:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:10:32 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:10:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:10:53 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:10:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:12:44 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:12:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:12:55 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:12:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:13:20 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:13:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:14:10 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:14:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:14:49 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 16:17:47 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:17:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:19:23 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:19:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:19:27 UTC] PHP Warning:  require(/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php): Failed to open stream: No such file or directory in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 16:19:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ytoovumw/public_html/UCCP/organizeregistrar../includes/PHPMailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ytoovumw/public_html/UCCP/organizeregistrar/Reject-registrar.php on line 17
+[21-Apr-2023 17:00:54 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[21-Apr-2023 17:04:41 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 00:53:13 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 00:55:41 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 00:58:17 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 01:05:56 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 01:09:20 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 01:15:44 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[22-Apr-2023 13:38:53 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:05:03 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:05:46 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:41:17 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:43:08 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:43:15 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[24-Apr-2023 08:59:24 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[24-Apr-2023 08:59:28 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[24-Apr-2023 08:59:36 UTC] PHP Warning:  Undefined array key "choices" in /home/ytoovumw/public_html/UCCP/organizeregistrar/select-sy-admission.php on line 9
+[29-Apr-2023 15:48:00 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[01-May-2023 15:32:07 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[04-May-2023 01:58:45 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
+[04-May-2023 02:21:38 UTC] PHP Fatal error:  Cannot redeclare admission() (previously declared in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php:5) in /home/ytoovumw/public_html/UCCP/organizeregistrar/include/header.php on line 4
