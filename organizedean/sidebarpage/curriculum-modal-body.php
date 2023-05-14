@@ -52,7 +52,12 @@ $output.='  <label for="Courses" class="form-label">YEAR</label>
 <input type="text" class="form-control" id="UNITS" placeholder="ADD UNITS">
 
 <label for="Courses" class="form-label">Semester</label>
-<input type="text" class="form-control" id="SEM" placeholder="ADD SEM">';
+<input type="text" class="form-control" id="SEM" placeholder="ADD SEM">
+
+<label for="Courses" class="form-label">Price</label>
+<input type="text" class="form-control" id="SEM" placeholder="ADD SEM">
+
+';
 
 
 
