@@ -20,7 +20,8 @@
     <link rel="stylesheet" href="dean2.css">
     <title>UCC Dean</title>
   </head>
-
-  <?php include 'include/sidebar.php';
-      include 'include/body.php';
+  <body>
+  <?php 
+  // include 'include/sidebar.php';
+  //     include 'include/body.php';
 ?>

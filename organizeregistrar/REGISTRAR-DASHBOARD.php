@@ -12,6 +12,7 @@ include 'include/config.php';
         <h2 class="fs-2 m-0">Registrar Dashboard</h2>
       </div>
     </nav>
+    
     <div class="container py-3">
       <div class="row">
         <div class="col-md-12">

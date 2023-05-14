@@ -10,39 +10,39 @@
               <div class="tab-content">
                 <div id="curriculum" class="container tab-pane fade">
                   <?php 
-                  include 'sidebarpage/CURRICULUM.php'; ?>
+                  include 'CURRICULUM.php'; ?>
                 </div>
 
                 <div id="listcurriculum" class="container tab-pane fade">
-                  <?php include 'sidebarpage/LISTCURRICULUM.php'; ?>
+                  <?php include 'LISTCURRICULUM.php'; ?>
                 </div>
 
                 <div id="section" class="container tab-pane fade">
-                  <?php include 'sidebarpage/SECTION.php'; ?>
+                  <?php include 'SECTION.php'; ?>
                 </div>
 
                 <div id="estudentlist" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/ENROLLEDSTUDENTLIST.php'; ?>
+                  <?php include 'ENROLLEDSTUDENTLIST.php'; ?>
                 </div>
 
                 <div id="schedman" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/SCHEDULEMANAGEMENT.php'; ?>
+                  <?php include 'SCHEDULEMANAGEMENT.php'; ?>
                 </div>
 
                 <div id="proflist" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/PROFESSORLIST.php'; ?>
+                  <?php include 'PROFESSORLIST.php'; ?>
                 </div>
 
                 <div id="deanslister" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/DEANSLISTER.php'; ?>
+                  <?php include 'DEANSLISTER.php'; ?>
                 </div>
                 
                 <div id="m" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/MASTERLIST.php'; ?>
+                  <?php include 'MASTERLIST.php'; ?>
                 </div>
 
                 <div id="deanacc" class="container tab-pane fade"><br>
-                  <?php include 'sidebarpage/DEANACCOUNT.php'; ?>
+                  <?php include 'DEANACCOUNT.php'; ?>
                 </div>
 
               </div>
