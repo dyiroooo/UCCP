@@ -26,7 +26,7 @@ toggleButton.onclick = function () {
 <script type="text/javascript" src="removeadmin.js"></script>
 <script type="text/javascript" src="addadmin.js"></script>
 <script type="text/javascript" src="viewadmin.js"></script>
-<script type="text/javascript"> //for showing password
+<script type="text/javascript">//for showing password
 function chkbxShowpassword() {
   var click =  document.getElementById("admin_password");
   if (click.type === "password") {

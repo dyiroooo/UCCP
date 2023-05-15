@@ -117,169 +117,140 @@ include 'include/config.php';
     </div>
   </div>
 </div>
+<div class="d-flex" id="wrapper">
+  <?php include 'include/sidebar.php'; ?>
+  <div id="page-content-wrapper">
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent py-4 px-4">
+      <div class="d-flex align-items-center">
+        <i class="fas fa-bars primary-text fs-4 me-3" id="menu-toggle"></i>
+        <h2 class="fs-2 m-0">Dashboard</h2>
+      </div>
+    </nav>
 
-<?php include 'include/sidebar.php'; ?>
-<div id="page-content-wrapper">
-  <nav class="navbar navbar-expand-lg navbar-light bg-transparent py-4 px-4">
-    <div class="d-flex align-items-center">
-      <i class="fas fa-bars primary-text fs-4 me-3" id="menu-toggle"></i>
-      <h2 class="fs-2 m-0">Dashboard</h2>
-    </div>
-  </nav>
+    <div class="container my-3 ">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-header">
+              <h1 align="center">LIST OF APPROVED CURRICULUM</h1>
+            </div>
+            <div class="card-body">
+              <!-- Button trigger modal -->
+              <button type="button" class="btn btn-primary col-sm-2 mb-3" id="a" data-bs-toggle="modal" data-bs-target="#AddCurriculum">
+                <i class="fa fa-plus"></i>
+              </button>
 
-  <div class="container my-3 ">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="card">
-          <div class="card-header">
-            <h1 align="center">LIST OF APPROVED CURRICULUM</h1>
-          </div>
-          <div class="card-body">
-            <!-- Button trigger modal -->
-            <button type="button" class="btn btn-primary col-sm-2 mb-3" id="a" data-bs-toggle="modal" data-bs-target="#AddCurriculum">
-              <i class="fa fa-plus"></i>
-            </button>
-
-            <table id="c" class="table text-center  cell-border table-hover" style="width:100%">
-              <thead>
-                <tr align="center">
-                  <th class="text-center">SchooYear</th>
-                  <th class="text-center">Course Details</th>
-                  <th class="text-center">Subject Details</th>
-                  <th class="text-center">Sem</th>
-                  <th class="text-center">Units</th>
-                  <th class="text-center">Status</th>
-                  <th class="text-center">Operation</th>
-                </tr>
-              </thead>
-            </table>
+              <table id="c" class="table text-center  cell-border table-hover" style="width:100%">
+                <thead>
+                  <tr align="center">
+                    <th class="text-center">SchooYear</th>
+                    <th class="text-center">Course Details</th>
+                    <th class="text-center">Subject Details</th>
+                    <th class="text-center">Sem</th>
+                    <th class="text-center">Units</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Operation</th>
+                  </tr>
+                </thead>
+              </table>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <script type="text/javascript">
-    $(document).ready(function() {
+    <?
+    include 'include/footer.php';
+    ?>
 
-      $('#a').click(function() {
+    <script type="text/javascript">
+      $(document).ready(function() {
 
-        $.ajax({
-          url: 'curriculum-modal-body.php',
-          type: 'post',
-          data: {},
-          success: function(response) {
-            $('#curriculumBody').html(response);
-            $('#AddCurriculums').modal('show');
-          }
+        $('#a').click(function() {
+
+          $.ajax({
+            url: 'curriculum-modal-body.php',
+            type: 'post',
+            data: {},
+            success: function(response) {
+              $('#curriculumBody').html(response);
+              $('#AddCurriculums').modal('show');
+            }
+          });
         });
+
+
+
+
+
+
+
+        var table1 = $('#c').DataTable({
+          'serverside': true,
+          'processing': false,
+          'paging': true,
+          "columnDefs": [{
+              "className": "dt-center",
+              "targets": "_all"
+            },
+            {
+              "width": "25%",
+              "targets": 0
+            },
+            {
+              "width": "40%",
+              "targets": 1
+            },
+            {
+              "width": "10%",
+              "targets": 2
+            },
+          ],
+
+          'ajax': {
+
+            'url': 'Curriculumtable.php',
+            'type': 'post',
+
+          },
+          'fnCreateRow': function(nRow, aData, iDataIndex) {
+            $(nRow).attr('id', aData[0]);
+          },
+
+        });
+
+
+        setInterval(function() {
+          //   // Store the current search value
+          //   searchValue = $('#example_filter input').val();
+
+          // Reload the DataTable
+          table1.ajax.reload(null, false);
+
+          //   // Set the search value back to the input element
+          //   $('#example_filter input').val(searchValue);
+        }, 5000);
+
+
+
+
+
       });
 
 
+      function AddCurriculum() {
 
 
+        var schoolyear = $('#SCHOOLYEAR').val();
+        var course = $('#e').val();
+        var year = $('#YEAR').val();
+        var subcode = $('#SUBJECTCODE').val();
+        var description = $('#DESCRIPTION').val();
+        var units = $('#UNITS').val();
+        var sem = $('#SEM').val();
 
-
-
-      var table1 = $('#c').DataTable({
-        'serverside': true,
-        'processing': false,
-        'paging': true,
-        "columnDefs": [{
-            "className": "dt-center",
-            "targets": "_all"
-          },
-          {
-            "width": "25%",
-            "targets": 0
-          },
-          {
-            "width": "40%",
-            "targets": 1
-          },
-          {
-            "width": "10%",
-            "targets": 2
-          },
-        ],
-
-        'ajax': {
-
-          'url': 'Curriculumtable.php',
-          'type': 'post',
-
-        },
-        'fnCreateRow': function(nRow, aData, iDataIndex) {
-          $(nRow).attr('id', aData[0]);
-        },
-
-      });
-
-
-      setInterval(function() {
-        //   // Store the current search value
-        //   searchValue = $('#example_filter input').val();
-
-        // Reload the DataTable
-        table1.ajax.reload(null, false);
-
-        //   // Set the search value back to the input element
-        //   $('#example_filter input').val(searchValue);
-      }, 5000);
-
-
-
-
-
-    });
-
-
-    function AddCurriculum() {
-
-
-      var schoolyear = $('#SCHOOLYEAR').val();
-      var course = $('#e').val();
-      var year = $('#YEAR').val();
-      var subcode = $('#SUBJECTCODE').val();
-      var description = $('#DESCRIPTION').val();
-      var units = $('#UNITS').val();
-      var sem = $('#SEM').val();
-
-      if (schoolyear, course, year, subcode, description, units, sem == "") {
-        alert("Please fill out missing fields");
-        $('#e').val('');
-        $('#SCHOOLYEAR').val('');
-        $('#YEAR').val('');
-        $('#SUBJECTCODE').val('');
-        $('#DESCRIPTION').val('');
-        $('#UNITS').val('');
-        $('#SEM').val('');
-
-
-        return false;
-      }
-
-      $.ajax({
-
-        url: 'add-curriculum.php',
-        type: 'post',
-        data: {
-          course: course,
-          schoolyear: schoolyear,
-          year: year,
-          subcode: subcode,
-          description: description,
-          units: units,
-          sem: sem
-        },
-        success: function(data, status) {
-
-          var json = JSON.parse(data);
-          status = json.status;
-          if (status == 'success') {
-            var c = $('#c').DataTable().ajax.reload();
-          }
-
+        if (schoolyear, course, year, subcode, description, units, sem == "") {
+          alert("Please fill out missing fields");
           $('#e').val('');
           $('#SCHOOLYEAR').val('');
           $('#YEAR').val('');
@@ -288,82 +259,92 @@ include 'include/config.php';
           $('#UNITS').val('');
           $('#SEM').val('');
 
+
+          return false;
         }
-      })
 
-    }
+        $.ajax({
 
-    function updateC(update) {
+          url: 'add-curriculum.php',
+          type: 'post',
+          data: {
+            course: course,
+            schoolyear: schoolyear,
+            year: year,
+            subcode: subcode,
+            description: description,
+            units: units,
+            sem: sem
+          },
+          success: function(data, status) {
 
-      $('#hiddendataC').val(update);
-      $.post("update-curriculum.php", {
-        update: update
-      }, function(data,
-        status) {
-        var c = JSON.parse(data);
+            var json = JSON.parse(data);
+            status = json.status;
+            if (status == 'success') {
+              var c = $('#c').DataTable().ajax.reload();
+            }
 
-        $('#U_SCHOOLYEAR').val(c.Schoolyear);
-        $('#U_COURSE').val(c.Course);
-        $('#U_YEAR').val(c.Year);
-        $('#U_SUBJECTCODE').val(c.Subcode);
-        $('#U_DESCRIPTION').val(c.Description);
-        $('#U_UNITS').val(c.Units);
-        $('#U_SEM').val(c.Sem);
+            $('#e').val('');
+            $('#SCHOOLYEAR').val('');
+            $('#YEAR').val('');
+            $('#SUBJECTCODE').val('');
+            $('#DESCRIPTION').val('');
+            $('#UNITS').val('');
+            $('#SEM').val('');
 
-      });
-      $('#Update_Curriculum').modal("show");
+          }
+        })
 
-    }
+      }
 
+      function updateC(update) {
 
+        $('#hiddendataC').val(update);
+        $.post("update-curriculum.php", {
+          update: update
+        }, function(data,
+          status) {
+          var c = JSON.parse(data);
 
-    function updateCurriculum() {
+          $('#U_SCHOOLYEAR').val(c.Schoolyear);
+          $('#U_COURSE').val(c.Course);
+          $('#U_YEAR').val(c.Year);
+          $('#U_SUBJECTCODE').val(c.Subcode);
+          $('#U_DESCRIPTION').val(c.Description);
+          $('#U_UNITS').val(c.Units);
+          $('#U_SEM').val(c.Sem);
 
+        });
+        $('#Update_Curriculum').modal("show");
 
-      var hiddendataC = $('#hiddendataC').val();
-      var sy = $('#U_SCHOOLYEAR').val();
-      var c = $('#U_COURSE').val();
-      var y = $('#U_YEAR').val();
-      var s = $('#U_SUBJECTCODE').val();
-      var d = $('#U_DESCRIPTION').val();
-      var u = $('#U_UNITS').val();
-      var se = $('#U_SEM').val();
-
-
-
-      $.post("update-curriculum.php", {
-        hiddendataC: hiddendataC,
-        sy: sy,
-        c: c,
-        y: y,
-        s: s,
-        d: d,
-        u: u,
-        se: se
-      }, function(data, status) {
-        var json = JSON.parse(data);
-        status = json.status;
-        if (status == 'success') {
-
-          $('#c').DataTable().ajax.reload();
-
-
-        }
-      });
-
-    }
+      }
 
 
-    function removeC(r) {
-      $.ajax({
 
-        url: 'delete-curriculum.php',
-        type: 'post',
-        data: {
-          removeC: r
-        },
-        success: function(data, status) {
+      function updateCurriculum() {
 
+
+        var hiddendataC = $('#hiddendataC').val();
+        var sy = $('#U_SCHOOLYEAR').val();
+        var c = $('#U_COURSE').val();
+        var y = $('#U_YEAR').val();
+        var s = $('#U_SUBJECTCODE').val();
+        var d = $('#U_DESCRIPTION').val();
+        var u = $('#U_UNITS').val();
+        var se = $('#U_SEM').val();
+
+
+
+        $.post("update-curriculum.php", {
+          hiddendataC: hiddendataC,
+          sy: sy,
+          c: c,
+          y: y,
+          s: s,
+          d: d,
+          u: u,
+          se: se
+        }, function(data, status) {
           var json = JSON.parse(data);
           status = json.status;
           if (status == 'success') {
@@ -372,11 +353,30 @@ include 'include/config.php';
 
 
           }
-        }
-      })
-    }
-  </script>
+        });
 
-  <?
-  include 'include/footer.php';
-  ?>
+      }
+
+
+      function removeC(r) {
+        $.ajax({
+
+          url: 'delete-curriculum.php',
+          type: 'post',
+          data: {
+            removeC: r
+          },
+          success: function(data, status) {
+
+            var json = JSON.parse(data);
+            status = json.status;
+            if (status == 'success') {
+
+              $('#c').DataTable().ajax.reload();
+
+
+            }
+          }
+        })
+      }
+    </script>

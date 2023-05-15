@@ -1,6 +1,6 @@
 
 <?php
-$con = mysqli_connect("localhost", "ytoovumw_bscs3a", "kaAGi]gz8H2*", "ytoovumw_bscs3a");
+$con = mysqli_connect("localhost", "root", "", "uccp1");
 
 if (!$con){
   die('Connection Failed'.mysqli_connect_error());
