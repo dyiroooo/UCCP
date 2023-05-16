@@ -1,5 +1,5 @@
 
-  <!-- <div class="d-flex" id="wrapper"> -->
+  <div class="d-flex" id="wrapper">
     <!-- Sidebar -->
     <div class="bg-white" id="sidebar-wrapper">
       <div class="sidebar-heading text-center py-4 primary-text fs-4 fw-bold">
