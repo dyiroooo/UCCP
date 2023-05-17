@@ -103,6 +103,7 @@
                     $("#updatecourseprice").modal("hide");
                     //location.reload();
                     var a = $('#tblCoursePrice').DataTable().ajax.reload();
+                    var b = $('#coursefeelist').DataTable().ajax.reload();
                 }
             });
         });
