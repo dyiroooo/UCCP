@@ -15,6 +15,7 @@ if (isset($_POST['update_id'])) {
         $schoolyear = $course['Schoolyear'];
         $bscourse = $course['Course'];
         $sem = $course['Sem'];
+        $price = $course['Price'];
     }
 
 ?>
@@ -44,7 +45,7 @@ if (isset($_POST['update_id'])) {
         </div>
         <div class="form-group">
             <label for="recipient-name" class="col-form-label">Price</label>
-            <input type="text" name="" id="" class="form-control" value="" placeholder="Price">
+            <input type="number" name="updatePrice" id="updatePrice" class="form-control" value="<?= $price ?>" placeholder="Price">
         </div>
     </form>
 <?php

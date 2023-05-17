@@ -14,12 +14,15 @@ while ($row = mysqli_fetch_array($query_run)) {
   $schoolyear = $row['Schoolyear'];
   $description = $row['Description'];
   $course = $row['Course'];
+  $price = $row['Price'];
 
 
 $subarray= array();
 
 $subarray[]=  '<tbody> 
-                <td>' . $subcode .  '</td>';
+                <td>' . $subcode.  '</td>';
+
+$subarray[] = '<td>' . $price .  '</td>';
 
 $subarray[]=  '<td>' . $description .  '</td>';
 
@@ -30,7 +33,6 @@ $subarray[] =  '<td>' . $course .  '</td>';
 $subarray[]= '
 <td>
 <button type="button" id="' . $id .'" class="btn btn-success updateCourseprice"><i class="fa-sharp fa-solid fa-pen"></i></button>
-<button type="button" id="' . $id .'" name="coursepriceremove" class="btn btn-danger delCourseprice"><i class="fa-sharp fa-solid fa-trash"></i></button>
 </td> 
 </tbody>
 ';

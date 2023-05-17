@@ -13,6 +13,7 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Sub Code</th>
+                                    <th scope="col">Subject Price</th>
                                     <th scope="col">Subject Detail/s</th>
                                     <th scope="col">School Year</th>
                                     <th scope="col">Course</th>
@@ -34,7 +35,7 @@
 <div class="modal fade" id="updatecourseprice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-            <form class="" action="#" method="post" id="updatefeeform">
+            <form class="" action="#" method="post" id="updatepriceform">
                 <div class="modal-header">
                     <h5 class="modal-title" id="exampleModalLabel">Update Course and Fee</h5>
                 </div>
@@ -95,13 +96,13 @@
         //update button
         $(document).on('click', '#updatecpricebtn', function() {
             $.ajax({
-                url: "sidebarpage/updatecoursefee.php",
+                url: "sidebarpage/updatecourseprice.php",
                 type: "post",
-                data: $("#updatefeeform").serialize(),
+                data: $("#updatepriceform").serialize(),
                 success: function(data) {
-                    $("#updatecoursesfee").modal("hide");
+                    $("#updatecourseprice").modal("hide");
                     //location.reload();
-                    var a = $('#coursefeelist').DataTable().ajax.reload();
+                    var a = $('#tblCoursePrice').DataTable().ajax.reload();
                 }
             });
         });
